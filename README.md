@@ -50,9 +50,8 @@
 </p>
 
 
-<div align=center>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menasehk13&theme=dracula)](https://github.com/menasehk13/github-readme-stats)
 &nbsp;
 ![Menaseh's](https://github-readme-stats.vercel.app/api?username=menasehk13&count_private=true&theme=radical)
-</div>
 
