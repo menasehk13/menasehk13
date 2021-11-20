@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 ---
 name: Menaseh
 surname: Kassahun
-email: "Menasehk38@gmail.com"
+email: Menasehk38@gmail.com
 position: "Android & IOS Developer | Data Analyst"
+output: 
+  vitae::markdowncv:
+    theme: kjhealy
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menasehk13&theme=radical)](https://github.com/menasehk13/github-readme-stats)
 
