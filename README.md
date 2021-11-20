@@ -14,16 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
+
 name: Menaseh
 surname: Kassahun
 email: Menasehk38@gmail.com
 position: "Android & IOS Developer | Data Analyst"
-output: 
-  vitae::markdowncv:
-    theme: kjhealy
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menasehk13&theme=radical)](https://github.com/menasehk13/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menasehk13&theme=dracula)](https://github.com/menasehk13/github-readme-stats)
 
 
 
