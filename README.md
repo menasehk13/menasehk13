@@ -37,6 +37,14 @@
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
+  &emsp;
+ <a href="https://developer.android.com/kotlin/learn?gclid=CjwKCAiA1uKMBhAGEiwAxzvX9-rANBxCDjtzAwEQqBUyOkTwcxHZvV8poWrSFQH-ibY2ADdGVgRqvBoCcQwQAvD_BwE&gclsrc=aw.ds" target="_blank">
+<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"
+</a>
+  &emsp;
+   <a href="https://www.r-project.org/">
+   <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"
+   </a>
 </p>
 
 
