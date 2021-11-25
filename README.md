@@ -54,12 +54,7 @@
    <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"
    </a>
 </p>
-     
-##Google Data Analyst Certificate
- <p>
- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="779cb793-4a7d-4701-86c6-cbd64c5a71da" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>    
- </p>
-
+    
 ## Connect With Me
 <p align="center">
 <br>
